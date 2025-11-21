@@ -40,8 +40,8 @@ text1 and text2 consist of only lowercase English characters.
 ## Program:
 ```
 /*
-Developed by: Tamizharasi S
-Register Number:  212222040170
+Developed by: Mena Rossini R
+Register Number: 212222040099
 */
 
 import java.util.Scanner;
